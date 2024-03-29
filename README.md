@@ -434,7 +434,7 @@ export default MeetingCard;
 
 ## <a name="links">🔗 Links</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/file/d/1y0Mi_to5ayGsMeijuSDwAuHtpMJwWaBB/view?usp=sharing)
+Public assets used in the project can be found [here](https://drive.google.com/file/d/1y0Mi_to5ayGsMeijuSDwAuHtpMJwWaBB/view?usp=drivesdk)
 
 ## <a name="more">🚀 More</a>
 
