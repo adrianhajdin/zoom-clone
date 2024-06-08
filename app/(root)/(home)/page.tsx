@@ -4,7 +4,7 @@
 import React from 'react';
 import { useGetCalls } from '@/hooks/useGetCalls';
 import Loader from '@/components/Loader';
-import MeetingTypesList from '@/components/MeetingTypesList';
+import MeetingTypeList from '@/components/MeetingTypeList';
 
 const Home = () => {
 
@@ -70,7 +70,7 @@ const Home = () => {
         </div>
       </div>
 
-      <MeetingTypesList />
+      <MeetingTypeList />
     </section>
   );
 };
