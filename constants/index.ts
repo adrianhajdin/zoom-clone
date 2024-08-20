@@ -4,7 +4,6 @@ export const sidebarLinks = [
     route: '/',
     label: 'Home',
   },
-
   {
     imgURL: '/icons/upcoming.svg',
     route: '/upcoming',
@@ -24,6 +23,11 @@ export const sidebarLinks = [
     imgURL: '/icons/add-personal.svg',
     route: '/personal-room',
     label: 'Personal Room',
+  },
+  {
+    imgURL: '/icons/projects.svg',
+    route: '/projects',
+    label: 'Projects',
   },
 ];
 
