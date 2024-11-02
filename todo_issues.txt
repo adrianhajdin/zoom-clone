@@ -1,0 +1,16 @@
+- [x] #2 Attempted to load @next/swc-win32-x64-msvc (Investigated: likely due to OS/architecture mismatch)
+- [ ] #3 Please Solve this error
+- [ ] #4 Why can i create Personal Meeting Room
+- [ ] #7 Clerk Authentication Part
+- [x] #9 Not showing anything on localhost:3000 (Potential fix: Check for JavaScript console errors and ensure all dependencies are installed)
+- [ ] #10 Localhost error
+- [x] #11 issue with Run the CLI command "npx shadcn-ui@latest init" (Resolved: Ensure Node.js and npm are up to date, then run the command in the project root)
+- [ ] #12 preview of video is not showing.
+- [ ] #13 unable to get call details when starting a new Meeting.
+- [ ] #14 404 page not found, when uploading to Vercel
+- [ ] #15 Redirect on signout
+- [ ] #16 Not able to create a new meeting
+- [ ] #21 WebSocket Issue
+- [ ] #22 Doubt
+- [ ] #23 Doubt
+- [ ] #24 Doubt
